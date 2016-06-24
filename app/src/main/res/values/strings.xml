@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">New York Times Search</string>
+    <string name="search_hint">Enter Search Query</string>
+    <string name="search">Search</string>
+    <string name="back">Back to search</string>
+    <string name="share">Share this page</string>
+    <string name="settings">Search Settings</string>
+    <string name="welcome">Welcome to this thrid-party New York Times search app!\n
+        Use the toolbar to begin browsing. </string>
+    <string name="instructions">Use the toolbar to begin browsing.</string>
+    <string name="top">Today\'s Top Stories</string>
+    <string name="home">Home</string>
+    <string name="begin_date">Begin Date:</string>
+    <string name="sort_order">Sort Order:</string>
+    <string name="news_desk">News Desk Values</string>
+    <string name="arts">Arts</string>
+    <string name="sports">Sports</string>
+    <string name="education">Education</string>
+    <string name="save">Save</string>
+</resources>

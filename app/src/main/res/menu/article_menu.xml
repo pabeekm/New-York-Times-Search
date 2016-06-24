@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">>
+    <item
+        android:orderInCategory="2"
+        android:id="@+id/share"
+        app:showAsAction="never"
+        android:title="@string/share"
+        app:actionProviderClass="android.support.v7.widget.ShareActionProvider"/>
+
+    <item
+        android:orderInCategory="1"
+        android:id="@+id/back"
+        android:title="@string/back"
+        android:icon="@drawable/back"
+        app:showAsAction="always"
+        android:onClick="onBack"/>
+</menu>
